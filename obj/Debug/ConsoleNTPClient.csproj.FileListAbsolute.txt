@@ -1,0 +1,6 @@
+c:\users\kater\documents\visual studio 2015\Projects\ConsoleNTPClient\bin\Debug\ConsoleNTPClient.exe.config
+C:\Users\kater\documents\visual studio 2015\Projects\ConsoleNTPClient\bin\Debug\ConsoleNTPClient.exe
+C:\Users\kater\documents\visual studio 2015\Projects\ConsoleNTPClient\bin\Debug\ConsoleNTPClient.pdb
+C:\Users\kater\documents\visual studio 2015\Projects\ConsoleNTPClient\obj\Debug\ConsoleNTPClient.exe
+C:\Users\kater\documents\visual studio 2015\Projects\ConsoleNTPClient\obj\Debug\ConsoleNTPClient.pdb
+C:\Users\kater\Documents\Visual Studio 2015\Projects\ConsoleNTPClient\obj\Debug\ConsoleNTPClient.csprojResolveAssemblyReference.cache
